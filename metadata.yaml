@@ -1,0 +1,35 @@
+_repo: Ghosts--A-Domestic-Tragedy-in-Three-Acts_2467
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Sharp, R. Farquharson (Robert Farquharson)
+    alias: Sharp, Robert Farquharson
+    birthdate: 1864
+    deathdate: 1945
+    gutenberg_agent_id: '862'
+    url: http://www.gutenberg.org/2009/agents/862
+creator:
+  author:
+    agent_name: Ibsen, Henrik
+    birthdate: 1828
+    deathdate: 1906
+    gutenberg_agent_id: '861'
+    url: http://www.gutenberg.org/2009/agents/861
+    wikipedia: http://en.wikipedia.org/wiki/Henrik_Ibsen
+description: 'Uniform title: Gengangere. English'
+gutenberg_issued: '2001-01-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '2467'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Mothers and sons -- Drama'
+- !lcc 'PT'
+- !lcsh 'Norwegian drama -- Translations into English'
+- !lcsh 'Families -- Drama'
+- GITenberg
+title: 'Ghosts: A Domestic Tragedy in Three Acts'
+url: http://www.gutenberg.org/ebooks/2467
